@@ -52,13 +52,11 @@ StreetKings/
 
 > Coming soon — follow development for updates 👀
 
-(You can add your in-editor screenshots later here.)
-
 ---
 
 ## 🧠 About Bloodline Studios
 
-Bloodline Studios is a creative game development studio founded by [Aisha](#) in Nigeria, focused on building world-class gaming experiences across console, PC, AR/VR, and robotics-based games.  
+Bloodline Studios is a creative game development studio founded by [Aisha Aliyu](https://www.tiktok.com/@techgoddesss) in Nigeria, focused on building world-class gaming experiences across console, PC, AR/VR, and robotics-based games.  
 StreetKings: Drift Wars marks our first official studio project, setting the foundation for many ambitious titles to come.
 
 ---
