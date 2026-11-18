@@ -1,95 +1,34 @@
-# 🏎️ StreetKings: Drift Wars  
-*The First Official Game Project by Bloodline Studios*
+# StreetKings: Drift Wars
 
-StreetKings: Drift Wars is a PS5 multiplayer racing game built with Unreal Engine 5, blending high-speed competition, stylish drifting, and immersive environments. Inspired by titles like *Need for Speed*, this ongoing project aims to deliver a next-generation racing experience with unique twists designed by our in-house studio.
+A multiplayer street racing and drifting game set in Lagos, which I'm building in Unreal Engine 5 for PlayStation 5. Think Need for Speed, with a Nigerian setting. It's the first game from Bloodline Studios, the game studio I founded.
 
-> 🚧 This is an ongoing project — development is actively in progress. All commits reflect real production stages as Bloodline Studios grows.
+This is an early, ongoing project, so most of what's below is still planned.
 
----
+## The plan
 
-## 🧠 Project Overview
+- Drift handling and car physics that feel realistic.
+- Online multiplayer races.
+- City, forest and water areas to race through.
+- Weather and day and night cycles.
+- Your own music playlists while you race.
+- Different race types, in-game challenges and unlockable car customisation.
 
-- 🎮 Platform: PlayStation 5 (PS5)  
-- 🧰 Engine: Unreal Engine 5  
-- 👥 Mode: Multiplayer  
-- 🌍 Environments: City, Forest, Water zones  
-- 🎶 Music: Custom in-game music playlists
+## What's in the repo
 
----
+The Unreal Engine 5 project: `StreetKings.uproject` plus the `Config` and `Content` folders. `Content` holds the vehicles, the track, game assets and level prototypes. To open it, clone the repo and open `StreetKings.uproject` in Unreal Engine 5.
 
-## 🚀 Planned Features
+`DerivedDataCache`, `Intermediate` and `Saved` are left out of version control on purpose, since Unreal generates them locally and they're large.
 
-- Realistic drift mechanics and car physics 🌀  
-- Multiplayer racing with smooth synchronization  
-- Custom music playlists so players can vibe while racing 🎧  
-- Dynamic weather & time cycles 🌦️🌙  
-- Multiple racing scenarios with diverse terrains  
-- Unique in-game challenges and unlockable customization
+## Screenshots
 
----
+I'll add screenshots and clips once the first playable build is ready.
 
-## 🧱 Project Structure
+## Status
 
-StreetKings/
-├── Config/
-├── Content/
-│   ├── ExternalActors/
-│   ├── ExternalObjects/
-│   ├── Collections/
-│   ├── Developers/
-│   ├── GameAssets/
-│   ├── LevelPrototyping/
-│   ├── StarterContent/
-│   ├── Track/
-│   └── Vehicles/
-└── StreetKings.uproject
+It's a solo project for now. The next steps are full multiplayer, asset optimisation, the menus and HUD, and later the work needed for PlayStation certification. I'll open it up for feedback once the core systems are done.
 
-> DerivedDataCache, Intermediate, and Saved are intentionally excluded from version control to keep the repo lightweight.
+## About Bloodline Studios
 
----
+Bloodline Studios is the game studio I founded in Nigeria. I want it to make games for console, PC and AR/VR, including games that use robotics. StreetKings: Drift Wars is the first one.
 
-## 📸 Screenshots & Media
-
-> Coming soon — follow development for updates 👀
-
----
-
-## 🧠 About Bloodline Studios
-
-Bloodline Studios is a creative game development studio founded by [Aisha Aliyu](https://www.tiktok.com/@techgoddesss) in Nigeria, focused on building world-class gaming experiences across console, PC, AR/VR, and robotics-based games.  
-StreetKings: Drift Wars marks our first official studio project, setting the foundation for many ambitious titles to come.
-
----
-
-## 📝 Contribution & Roadmap
-
-Currently, this is a solo project under active development.  
-Future phases will include:
-- Full multiplayer implementation  
-- Asset optimization  
-- Advanced UI/UX  
-- PlayStation certification prep  
-
-Community contributions and feedback will be welcome once the core systems are complete.
-
----
-
-## 📅 Timeline
-
-| Phase | Goal | Status |
-|-------|------|--------|
-| Q1 2025 | Project Kickoff & Prototyping | ✅ Completed |
-| Q2 2025 | Core Racing Mechanics | 🏗 In Progress |
-| Q3 2025 | Multiplayer & UI Systems | ⏳ Upcoming |
-| Q4 2025 | Optimization & Testing | ⏳ Upcoming |
-
----
-
-## 📜 License
-
-This project is owned and maintained by Bloodline Studios.  
-All rights reserved © 2025.
-
----
-
-### 🌟 Follow the journey — this is just the beginning.
+© 2025 Bloodline Studios. All rights reserved.
